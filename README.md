@@ -3,7 +3,9 @@
 🗺 Location: Italy<br>
 📚 Career: Developer & Student<br>
 📝 Languages: Javascript, Python, C++<br>
-🗄 DBs: MySQL<br>
+📝 Front-End: Bootstrap, HTML, CSS<br>
+📝 Back-End: NodeJS, PHP, MySQL<br>
+🧰 Tool: Github, Visual Studio Code, Heroku, Reddit, Discord<br>
 🎈 APIs: Telegram, Discord, Mcsrvstat<br><br>
 
 **And here's where you can find me...**<br>
