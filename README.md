@@ -10,8 +10,9 @@
 
 **And here's where you can find me...**<br>
 🌐 Website: [https://help.matt05.ml](https://help.matt05.ml)<br>
-💾 Discord: [https://matt05.ml/discord](https://matt05.ml/discord)<br>
+💾 Discord: [https://social.matt05.ml/](https://social.matt05.ml/)<br>
 🎉 Telegram: [@Non_Sono_Matteo](https://t.me/Non_Sono_Matteo)<br>
+
 <!---
 Matt0550/Matt0550 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
