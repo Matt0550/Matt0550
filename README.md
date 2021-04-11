@@ -8,7 +8,7 @@
 🧰 Tool: Github, Visual Studio Code, Heroku, Reddit, Discord<br>
 🎈 APIs: Telegram, Discord, Mcsrvstat<br><br>
 
-**And here's where you can find me...**<br>
+**You can find me here...**<br>
 🌐 Website: [https://help.matt05.ml](https://help.matt05.ml)<br>
 💾 Discord: [https://social.matt05.ml/](https://social.matt05.ml/)<br>
 🎉 Telegram: [@Non_Sono_Matteo](https://t.me/Non_Sono_Matteo)<br>
