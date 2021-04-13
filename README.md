@@ -11,6 +11,7 @@
 **You can find me here...**<br>
 🌐 Website: [https://matt05.ml](https://matt05.ml)<br>
 ❓ Help/Contact me: [https://help.matt05.ml](https://help.matt05.ml)<br>
+✉️ Mail: [mail@matt05.ml](mailto:mail@matt05.ml)<br>
 💾 Discord: [https://social.matt05.ml/](https://social.matt05.ml/)<br>
 🎉 Telegram: [@Non_Sono_Matteo](https://t.me/Non_Sono_Matteo)<br>
 
