@@ -1,5 +1,5 @@
 **Here's some info...**<br>
-📆 Age: 15yo<br>
+📆 Age: 16yo<br>
 🗺 Location: Italy<br>
 📚 Career: Developer & Student<br>
 📝 Languages: Javascript, Python, C++<br>
