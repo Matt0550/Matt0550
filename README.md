@@ -1,7 +1,7 @@
 [![wakatime](https://wakatime.com/badge/user/288e7479-4c45-4a56-9830-bebe3d8bb9f8.svg)](https://wakatime.com/@288e7479-4c45-4a56-9830-bebe3d8bb9f8)
 
 **Here's some info...**<br>
-📆 Age: 16yo<br>
+📆 Age: 17yo<br>
 🗺 Location: Italy<br>
 📚 Career: Developer & Student<br>
 📝 Languages: Javascript, Python, C++<br>
