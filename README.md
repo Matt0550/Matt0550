@@ -4,8 +4,8 @@
 📆 Age: 17yo<br>
 🗺 Location: Italy<br>
 📚 Career: Developer & Student<br>
-📝 Languages: Javascript, Python, C++<br>
-📝 Front-End: Bootstrap, HTML, CSS<br>
+📝 Languages: Javascript, Python, C++, Java<br>
+📝 Front-End: Bootstrap, HTML, CSS, Talwind CSS<br>
 📝 Back-End: NodeJS, PHP, MySQL<br>
 🧰 Tool: Github, Visual Studio Code, Heroku, Reddit, Discord<br>
 🎈 APIs: Telegram, Discord, Mcsrvstat<br><br>
