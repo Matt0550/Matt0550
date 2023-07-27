@@ -2,19 +2,19 @@
 
 **Here's some info...**<br>
 📆 Age: 17yo<br>
-🗺 Location: Italy<br>
+🗺 Location: Sicily, Italy<br>
 📚 Career: Developer & Student<br>
-📝 Languages: Javascript, Python, C++, Java<br>
-📝 Front-End: Bootstrap, HTML, CSS, Talwind CSS<br>
-📝 Back-End: NodeJS, PHP, MySQL<br>
-🧰 Tool: Github, Visual Studio Code, Heroku, Reddit, Discord<br>
-🎈 APIs: Telegram, Discord, Mcsrvstat<br><br>
+📝 Languages: Javascript, Python, C++, C#, Java, Flutter, Arduino<br>
+📝 Front-End: Bootstrap, HTML, CSS, Talwind CSS,<br>
+📝 Back-End: NodeJS, PHP, MySQL, Firebase<br>
+🧰 Tools: Github, Visual Studio Code, Heroku, Reddit, Discord, Vercel, Cloudflare<br>
+<br><br>
 
 **You can find me here...**<br>
-🌐 Website: [https://matt05.ml](https://matt05.ml)<br>
-❓ Help/Contact me: [https://help.matt05.ml](https://help.matt05.ml)<br>
-✉️ Mail: [mail@matt05.ml](mailto:mail@matt05.ml)<br>
-💾 Discord: [https://social.matt05.ml/](https://social.matt05.ml/)<br>
+🌐 Website: [https://matt05.it](https://matt05.it)<br>
+❓ Help/Contact me: [https://matt05.it/help](https://matt05.it/help)<br>
+✉️ Mail: [mail@matt05.it](mailto:mail@matt05.it)<br>
+💾 Discord: [https://matt05.it/socials](https://matt05.it/socials)<br>
 🎉 Telegram: [@Non_Sono_Matteo](https://t.me/Non_Sono_Matteo)<br>
 
 [![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Matt0550&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/Matt0550)
