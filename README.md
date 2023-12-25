@@ -1,4 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/288e7479-4c45-4a56-9830-bebe3d8bb9f8.svg)](https://wakatime.com/@288e7479-4c45-4a56-9830-bebe3d8bb9f8)
+![](https://komarev.com/ghpvc/?username=Matt0550)
 
 **Here's some info...**<br>
 📆 Age: 18yo<br>
