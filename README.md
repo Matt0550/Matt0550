@@ -12,10 +12,9 @@
 <br><br>
 
 **You can find me here...**<br>
-🌐 Website: [https://matt05.it](https://matt05.it)<br>
-❓ Help/Contact me: [https://matt05.it/help](https://matt05.it/help)<br>
-✉️ Mail: [mail@matt05.it](mailto:mail@matt05.it)<br>
-💾 Discord: [https://matt05.it/socials](https://matt05.it/socials)<br>
+🌐 Website: [https://matteosillitti.it](https://matteosillitti.it)<br>
+✉️ Mail: [mail@matteosillitti.it](mailto:mail@matteosillitti.it)<br>
+💾 Discord: [https://bio.matteosillitti.it/](https://bio.matteosillitti.it/)<br>
 🎉 Telegram: [@Non_Sono_Matteo](https://t.me/Non_Sono_Matteo)<br>
 
 [![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Matt0550&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/Matt0550)
