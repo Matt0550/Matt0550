@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=Matt0550)
 
 **Here's some info...**<br>
-📆 Age: 18yo<br>
+📆 Age: 19yo<br>
 🗺 Location: Sicily, Italy<br>
 📚 Career: Developer & Student<br>
 📝 Languages: Javascript, Python, C++, C#, Java, Flutter, Arduino<br>
