@@ -8,6 +8,7 @@
 📝 Front-End: VueJS, Typescript, Talwind CSS, Bootstrap, Javascript, HTML, CSS <br>
 📝 Back-End: Python, NodeJS, PHP, C++, Java, MySQL, Firebase<br>
 📱 Mobile: Dart & Flutter
+
 🧰 DevOps: AWS (certified), Docker, Oracle Cloud, Github Actions, Vercel, Cloudflare<br>
 Other: Arduino, ESP8266
 <br><br>
