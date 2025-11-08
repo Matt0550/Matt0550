@@ -4,8 +4,8 @@
 **Here's some info...**<br>
 📆 Age: 19yo<br>
 🗺 Location: Sicily, Italy<br>
-📚 Career: Developer & Student<br>
-📝 Front-End: VueJS, Typescript, Talwind CSS, Bootstrap, Javascript, HTML, CSS <br>
+📚 Career: Full Stack Developer, IT Admin & Junior Cloud Engineer<br>
+📝 Front-End: VueJS, Typescript, Tailwind CSS, Bootstrap, JavaScript, HTML, CSS <br>
 📝 Back-End: Python, NodeJS, PHP, C++, Java, MySQL, Firebase<br>
 📱 Mobile: Dart & Flutter
 
